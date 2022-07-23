@@ -33,7 +33,7 @@ struct {
       uint16 Outer = 0x28;
   } UObject;
   struct {
-    uint16 Next = 0x38;
+    uint16 Next = 0x40;
   } UField;
   struct {
     uint16 SuperStruct = 0x48;
